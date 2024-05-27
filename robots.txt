@@ -1,1 +1,1 @@
-Sitemap: https://github.com/jakoblistabarth/sarahzeller.github.io/sitemap.xml
+Sitemap: https://jakoblistabarth.github.io/sarahzeller.github.io/sitemap.xml
