@@ -1,35 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/software/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/showing-regression-results/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/reading-csv-with-2row-colnames/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/opening-nc-files/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.968Z</lastmod>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/osm-history-files/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.469Z</lastmod>
   </url>
   <url>
     <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/opening-kmz-files/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.968Z</lastmod>
+    <lastmod>2025-10-22T09:30:22.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/sending-automated-emails/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/showing-regression-results/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.471Z</lastmod>
   </url>
   <url>
     <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/creating-a-basic-map/index.html</loc>
-    <lastmod>2024-05-27T21:14:39.968Z</lastmod>
+    <lastmod>2025-10-22T09:30:22.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/software/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/data-viz/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.464Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/opening-nc-files/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/reading-csv-with-2row-colnames/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.469Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/scraping-wikipedia/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakoblistabarth.github.io/sarahzeller.github.io/blog/posts/locator-map/index.html</loc>
+    <lastmod>2025-10-22T09:30:22.466Z</lastmod>
   </url>
 </urlset>
